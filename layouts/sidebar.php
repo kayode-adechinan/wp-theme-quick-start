@@ -1,0 +1,3 @@
+<div>
+    the sidebar
+</div>
